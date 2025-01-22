@@ -33,3 +33,19 @@ footer{
 #cargo{
 margin-left: 2rem;
 }
+.buys{
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+}
+button{
+    background-color: rgb(10, 10, 10);
+    border: solid 2px rgb(51, 51, 51);
+    color: whitesmoke;
+    border-radius: 7px;
+    width: 5cm;
+}
+button:hover{
+    background-color: rgb(20, 20, 20);
+    border: solid 2px rgb(60, 60, 60);
+    color: white;
+}
