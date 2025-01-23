@@ -49,3 +49,7 @@ button:hover{
     border: solid 2px rgb(60, 60, 60);
     color: white;
 }
+.bas{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
